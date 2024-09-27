@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">CurrencyConverterApp</string>
+    <string-array name="currency_codes">
+        <item>CAD</item>
+        <item>EUR</item>
+        <item>HKD</item>
+        <item>ISK</item>
+        <item>PHP</item>
+        <item>DKK</item>
+        <item>HUF</item>
+        <item>CZK</item>
+        <item>AUD</item>
+        <item>RON</item>
+        <item>SEK</item>
+        <item>IDR</item>
+        <item>INR</item>
+        <item>BRL</item>
+        <item>RUB</item>
+        <item>HRK</item>
+        <item>JPY</item>
+        <item>THB</item>
+        <item>CHF</item>
+        <item>SGD</item>
+        <item>PLN</item>
+        <item>BGN</item>
+        <item>CNY</item>
+        <item>NOK</item>
+        <item>NZD</item>
+        <item>ZAR</item>
+        <item>USD</item>
+        <item>MXN</item>
+        <item>ILS</item>
+        <item>GBP</item>
+        <item>KRW</item>
+        <item>MYR</item>
+        <item>USD</item>
+    </string-array>
+    <string name="currency_converter">Currency $</string>
+    <string name="an_easy_way_to_convert_currency">An easy way to convert currency from over 50 countries</string>
+    <string name="begin">Let\'s Begin</string>
+    <string name="choose_currency">Choose Currency:</string>
+    <string name="from">From...</string>
+    <string name="to">To...</string>
+    <string name="enter_number">Enter Number:</string>
+    <string name="convert">Convert</string>
+    <string name="image">image</string>
+</resources>
